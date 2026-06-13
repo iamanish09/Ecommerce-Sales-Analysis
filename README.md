@@ -1,10 +1,11 @@
-E-Commerce Sales Analysis using Python
+**E-Commerce Sales Analysis using Python**
 
-Project Overview
+
+**Project Overview**
 
 This project analyzes E-Commerce sales data using Python. The goal is to identify sales trends, profitable categories, customer behavior, regional performance, and business opportunities.
 
-Tools Used
+**Tools Used**
 
 - Python
 - Pandas
@@ -12,7 +13,7 @@ Tools Used
 - Seaborn
 - Jupyter Notebook
 
-Analysis Performed
+**Analysis Performed**
 
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
@@ -24,7 +25,7 @@ Analysis Performed
 - Customer Segment Analysis
 - Correlation Analysis
 
-Key Findings
+**Key Findings**
 
 - Technology generated the highest sales.
 - West region generated the highest profit.
@@ -32,13 +33,13 @@ Key Findings
 - Discounts negatively affected profitability.
 - Some products generated high sales but resulted in losses.
 
-Business Recommendations
+**Business Recommendations**
 
 - Focus on high-profit products.
 - Reduce excessive discounting.
 - Strengthen operations in high-performing regions.
 - Review loss-making products and pricing strategies.
 
-Author
+**Author**
 
 Anish A
